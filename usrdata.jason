@@ -1,8 +1,8 @@
 [
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
+    "id": "android_device_id_1",
+    "username": "user1",
+    "password": "pass1",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
@@ -12,12 +12,8 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  },
+  }
 
-  {
-    "id": "9bb01cef9b427022",
-    "username": "panjol",
-    "password": "key123",
-    "expiresAt": "2026-06-31",
-    "allowOffline": false
-]
+[
+  
+  

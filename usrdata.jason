@@ -12,5 +12,12 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  }
+  },
+
+  {
+    "id": "9bb01cef9b427022",
+    "username": "panjol",
+    "password": "key123",
+    "expiresAt": "2026-06-31",
+    "allowOffline": false
 ]
